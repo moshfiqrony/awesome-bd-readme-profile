@@ -19,7 +19,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
   - [Descriptive](#Descriptive)
   - [Icon](#Icon)
   - [Code Mode](#Code-Mode)
-  - [Images & Gifs](#Images-&-gifs)
+  - [Images & Gifs](#Images-gifs)
 - [tools](#tools)
 
 ## Categories
@@ -80,7 +80,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Redowan Delowar](https://github.com/rednafi)
 - [Kamran Hossain](https://github.com/kamranhossain)
 
-### Images & GIFS:
+### Images GIFS:
 
 - [Muntakimur Rahaman](https://github.com/muntakim1)
 - [Mahfuza Humayra Mohona](https://github.com/mhmohona)
