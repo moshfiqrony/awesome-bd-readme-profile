@@ -19,7 +19,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
   - [Descriptive](#Descriptive)
   - [Icon](#Icon)
   - [Code Mode](#Code-Mode)
-  - [Images & Gifs](#images-&-gifs)
+  - [Images & Gifs](#Images-&-gifs)
 - [tools](#tools)
 
 ## Categories
