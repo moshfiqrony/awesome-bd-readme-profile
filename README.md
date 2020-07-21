@@ -80,7 +80,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Redowan Delowar](https://github.com/rednafi)
 - [Kamran Hossain](https://github.com/kamranhossain)
 
-### Images GIFS:
+### Images Gifs:
 
 - [Muntakimur Rahaman](https://github.com/muntakim1)
 - [Mahfuza Humayra Mohona](https://github.com/mhmohona)
