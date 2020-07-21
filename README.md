@@ -44,6 +44,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 
 - [Md. Moshfiqur Rahman Rony](https://github.com/moshfiqrony)
 - [Delowar Hossain](https://github.com/delowardev)
+- [Dedar Alam](https://github.com/devded)
 
 ### Innovative:
 
