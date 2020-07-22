@@ -1,10 +1,10 @@
-## What type of PR is this? (check all applicable)
+## Which category your Pull Request in? (check all applicable)
 
 - [ ] 🚀 Added new entry
 - [ ] 🐛 Grammatical Error
 - [ ] ➕ Tools Update
 - [ ] 🚩 Other
 
-## Description
+## Add a simple description why your code is in this section
 
-## Add Link of GitHub Profile
+## Add the profile link here
