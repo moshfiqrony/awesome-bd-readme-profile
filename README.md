@@ -69,6 +69,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Shunjid Rahman Showrov](https://github.com/shunjid)
 - [Md. Jamal Uddin](https://github.com/jamal-pb95)
 - [Sajib Hossain](https://github.com/sajib1066)
+- [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
 
 ### Icon:
 
@@ -107,3 +108,4 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
 - [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - [WakaTime](https://wakatime.com/) All Weekly Metrics on your Profile Readme with extra feature flags to toggle code Editors used, os worked on, show timezone, top working projects
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
+- [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
