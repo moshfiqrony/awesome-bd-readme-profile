@@ -40,6 +40,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Arnab Kumar Shil](https://github.com/ruddra)
 - [Zonayed Ahmed](https://github.com/zonayedpca)
 - [Rakib Uddin](https://github.com/RRakib)
+- [Ming Tsai](https://github.com/ming-tsai)
 
 ### Badges:
 
