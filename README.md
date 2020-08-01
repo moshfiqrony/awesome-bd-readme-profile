@@ -83,6 +83,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Manash Kumar Mandal](https://github.com/manashmandal)
 - [Redowan Delowar](https://github.com/rednafi)
 - [Kamran Hossain](https://github.com/kamranhossain)
+- [Anmol Singh](https://github.com/anmol098)
 
 ### Images Gifs:
 
@@ -106,6 +107,6 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
-- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - [WakaTime](https://wakatime.com/) All Weekly Metrics on your Profile Readme with extra feature flags to toggle code Editors used, os worked on, show timezone, top working projects
+- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
