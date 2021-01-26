@@ -76,7 +76,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 
 - [Md Zinnatul Islam Morol](https://github.com/jinnatul)
 - [Fayaz Bin Salam](https://github.com/p32929)
-- [Maruf Ahmed](https://github.com/Maruf-Ahmed76)
+- [Maruf Ahmed](https://github.com/maruffahmed)
 - [Biplab Chandra Nag](https://github.com/biplab-nag)
 ### Code Mode:
 
