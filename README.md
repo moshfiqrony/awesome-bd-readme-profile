@@ -13,14 +13,14 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 </div>
 
 - [Categories](#categories)
-  - [Simple and Nice](#Simple-and-nice)
-  - [Badges](#Badges)
-  - [Innovative](#Innovative)
-  - [Descriptive](#Descriptive)
-  - [Icon](#Icon)
-  - [Code Mode](#Code-Mode)
-  - [Images & Gifs](#Images-gifs)
-- [tools](#tools)
+  - [Simple and Nice:](#simple-and-nice)
+  - [Badges:](#badges)
+  - [Innovative:](#innovative)
+  - [Descriptive:](#descriptive)
+  - [Icon:](#icon)
+  - [Code Mode:](#code-mode)
+  - [Images Gifs:](#images-gifs)
+- [Tools](#tools)
 
 ## Categories
 
@@ -55,6 +55,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Jobayer Arman](https://github.com/jobayerarman)
 - [Mehedi Hasan Likhon](https://github.com/lifeoflikhon)
 - [Shakirul Hasan](https://github.com/KhanShaheb34)
+- [Nelson Alba Jr. 許鑫偉 (nelly)](https://github.com/nellyXinwei)
 
 ### Descriptive:
 
@@ -78,6 +79,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Fayaz Bin Salam](https://github.com/p32929)
 - [Maruf Ahmed](https://github.com/maruffahmed)
 - [Biplab Chandra Nag](https://github.com/biplab-nag)
+  
 ### Code Mode:
 
 - [Md Raihan](https://github.com/kingRayhan)
