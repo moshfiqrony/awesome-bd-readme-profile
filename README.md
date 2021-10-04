@@ -114,3 +114,4 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
 - [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [Snk](https://github.com/Platane/snk) - :green_square::white_large_square: Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
