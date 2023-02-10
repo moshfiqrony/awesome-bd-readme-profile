@@ -43,7 +43,7 @@ If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/
 - [Ming Tsai](https://github.com/ming-tsai)
 
 ### Badges:
-
+- [Sadman Salim Nipun](https://github.com/nipun333)
 - [Md. Moshfiqur Rahman Rony](https://github.com/moshfiqrony)
 - [Delowar Hossain](https://github.com/delowardev)
 - [Dedar Alam](https://github.com/devded)
